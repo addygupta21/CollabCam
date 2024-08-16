@@ -1,6 +1,6 @@
-# Welcome to CodeCam
+# Welcome to CollabCam
 
-CodeCam is a web platform specifically designed for conducting Online Coding interviews. Interviewers can start a new session call and share the code of the session with the interviewee. The interviewee then uses this session code to join the room where the interviewer is present.
+CollabCam is a web platform specifically designed for conducting Online Coding interviews. Interviewers can start a new session call and share the code of the session with the interviewee. The interviewee then uses this session code to join the room where the interviewer is present.
 
 ## Features
 
