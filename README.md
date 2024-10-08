@@ -12,7 +12,7 @@ CollabCam is a web platform specifically designed for conducting Online Coding i
 
 - Note : Currently users in the same network are able to connect, this is mostly due to the peerJS implementation I am using. I will try to update the functionality so that anyone from anywhere can connect to each other.
 
-### future scope
+### Future Scope
 
 - add functionality to help the interviewer conduct consecutive interviews and store the students score
 
