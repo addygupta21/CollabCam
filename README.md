@@ -11,7 +11,7 @@ With CollabCam, interviewers can initiate a new session, share the unique sessio
 
 - ### **Video Monitoring**
   To ensure integrity and focus, CollabCam includes a **video monitoring tool** that tracks head movements of the candidate. When a candidate turns on their video, CollabCam will monitor and detect excessive head movements:
-  - If notable movement is detected, CollabCam issues a **warning**.
+  - If notable movement is being detected, CollabCam issues a **warning**.
   - Continued movement post-warning may result in the **session being terminated**, allowing interviewers to maintain a controlled environment.
 
 - ### **In-Session Chat**
