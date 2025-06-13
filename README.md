@@ -25,7 +25,7 @@
 
 ## Future Roadmap
 
-- **Session Management:** Conduct multiple back-to-back interviews without resetting the platform.  
+- **Session Management:** Conduct multiple back-to-back interviews without resetting the platform
 - **Scoring & Feedback:** Allow interviewers to assign scores, write feedback, and keep performance logs across sessions.  
 
 ---
