@@ -32,7 +32,7 @@
 
 ## Getting Started
 
-1. Visit the live demo: [Access CollabCam]([(https://code2face.onrender.com/))] 
+1. Visit the live demo: [Access CollabCam](https://code2face.onrender.com/)  
 2. Start a new session and share the code with your candidate.  
 3. Collaborate, monitor, and chat—all in one place!
 
